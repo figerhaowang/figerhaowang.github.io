@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hao Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a first-year Mphil student from Hong Kong University of Science and Technology. My research interest includes data mining, machine learning and AI4Sciene.
+I'm currently a first-year Mphil student from Hong Kong University of Science and Technology(Guangzhou). My research interest includes data mining, machine learning and AI4Sciene.
 
-I am very fortunate to be advised by Prof. Hao LIU(https://www.XXX.com/) of XXX Lab from AI Thrust, HKUST(GZ). I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by Prof. Hao LIU from AI Thrust, HKUST(GZ). I received my bachelor's degree from the School of Computer Science, Wuhan University.
 
 
 A data-driven personal website
