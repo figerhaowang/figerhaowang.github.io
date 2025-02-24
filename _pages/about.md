@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 🔥 About me
+#  About me
 I am a first-year MPhil student in AI Thrust at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Hao LIU](https://raymondhliu.github.io). Prior to my MPhil, I received a Bachelor’s degree from the Department of Computer Scienbce at Wuhan University.
 
 My primary research focus is on large-scale spatio-temporal modeling for solving essential problems, particularly in AI for scientific discovery. I'm now working on integrating prior scientific knowledge into deep learning models to enhance their accuracy, interpretability, and generalization ability for large-scale complex tasks.
