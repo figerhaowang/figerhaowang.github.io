@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🔥 About me
 I am a first-year MPhil student in the Department of Artificial Intelligence at The Hong Kong University of Science and Technology, supervised by Prof. Hao LIU. Prior to my MPhil, I received a Bachelor’s degree from the Department of Computer Scienbce at Wuhan University.
 
 My primary research focus is on large-scale spatio-temporal modeling for solving essential problems, particularly in AI for scientific discovery. I'm now working on integrating prior scientific knowledge into deep learning models to enhance their accuracy, interpretability, and generalization ability for large-scale complex tasks.
@@ -26,7 +26,20 @@ My primary research focus is on large-scale spatio-temporal modeling for solving
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+
+# 📖 Educational and Professional Background
+- 2024.09 - Present, **The Hong Kong University of Science and Technology**
+Master of Philosophy, Department of Artificial Intelligence
+Supervisor: [Prof. Hao LIU](https://raymondhliu.github.io)
+
+- 2020.09 - 2024.06, **Wuhan University**
+Bachelor, Department of Computer Science
+Supervisor: [Prof. Jiawei Jiang](https://bluesjjw.github.io)
+
+
+
 
 # 📝 Publications 
 
