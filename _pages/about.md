@@ -30,7 +30,7 @@ My primary research focus is on large-scale spatio-temporal modeling for solving
 
 
 # 📖 Educational and Professional Background
-- 2024.09 - Present, **The Hong Kong University of Science and Technology**<vr>
+- 2024.09 - Present, **The Hong Kong University of Science and Technology**<br>
 Master of Philosophy, AI Thrust<br>
 Supervisor: [Prof. Hao LIU](https://raymondhliu.github.io)
 
