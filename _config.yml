@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Wang"
-description              : "Department of Artificial Intelligence, The Hong Kong University of Science and Technology "
+description              : "Thrust of Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou)"
 repository               : "figerhaowang/figerhaowang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hao Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/panghu.png"
   bio              : "HKUST"
   location         : "Guangzhou, China"
   employer         :
