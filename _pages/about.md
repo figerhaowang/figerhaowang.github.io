@@ -30,12 +30,12 @@ My primary research focus is on large-scale spatio-temporal modeling for solving
 
 
 # 📖 Educational and Professional Background
-- 2024.09 - Present, **The Hong Kong University of Science and Technology**
-Master of Philosophy, Department of Artificial Intelligence
+- 2024.09 - Present, **The Hong Kong University of Science and Technology**<vr>
+Master of Philosophy, Department of Artificial Intelligence<br>
 Supervisor: [Prof. Hao LIU](https://raymondhliu.github.io)
 
-- 2020.09 - 2024.06, **Wuhan University**
-Bachelor, Department of Computer Science
+- 2020.09 - 2024.06, **Wuhan University**<br>
+Bachelor, Department of Computer Science<br>
 Supervisor: [Prof. Jiawei Jiang](https://bluesjjw.github.io)
 
 
