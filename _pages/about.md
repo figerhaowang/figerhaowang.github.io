@@ -24,10 +24,10 @@ My primary research focus is on large-scale spatio-temporal modeling for solving
 **<span style="color:red;">I am seeking an opportunity starting in Fall 2026.</span>** If my research interests align with yours and you are open to considering me as a potential advisee, please feel free to contact me. I am eager to explore potential collaborations and opportunities with you!
 
 
-# 🔥 News
+<!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
+ -->
 
 # 📖 Educational and Professional Background
 - 2024.09 - Present, **The Hong Kong University of Science and Technology**<br>
@@ -43,7 +43,7 @@ Supervisor: [Prof. Jiawei Jiang](https://bluesjjw.github.io)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/repst.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Language Model Empowered Spatio-Temporal Forecasting via Physics-Aware Reprogramming](https://arxiv.org/abs/2408.14505)
@@ -73,5 +73,7 @@ Supervisor: [Prof. Jiawei Jiang](https://bluesjjw.github.io)
 
 
 -->
+
+
 # 💻 Internships
 - *2013.09 - 2024.05*, Research Assistant, AI Thrust, The Hong Kong University of Science and Technology.
