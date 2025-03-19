@@ -24,7 +24,7 @@ My primary research focus is on large-scale spatio-temporal modeling for solving
 **<span style="color:red;">I am seeking an opportunity starting in Fall 2026.</span>** If my research interests align with yours and you are open to considering me as a potential advisee, please feel free to contact me. I am eager to explore potential collaborations and opportunities with you!
 
 
-🔥 News
+# 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One paper was accepted to VLDB 2025 about Compact Pre-Trained Spatio-Temporal Predictive Model. Thanks to all collaborators! 
 
 
