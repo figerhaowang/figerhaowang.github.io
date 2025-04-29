@@ -21,7 +21,7 @@ I am a first-year MPhil student in AI Thrust at The Hong Kong University of Scie
 
 My primary research focus is on large-scale spatio-temporal modeling for solving essential problems, particularly in AI for scientific discovery. I'm now working on integrating prior scientific knowledge into deep learning models to enhance their accuracy, interpretability, and generalization ability for large-scale complex tasks.
 
-**<span style="color:red;">I am seeking an opportunity starting in Fall 2026.</span>** If my research interests align with yours and you are open to considering me as a potential advisee, please feel free to contact me. I am eager to explore potential collaborations and opportunities with you!
+**<span style="color:red;">I am seeking a PhD opportunity starting in Fall 2026.</span>** If my research interests align with yours and you are open to considering me as a potential advisee, please feel free to contact me. I am eager to explore potential collaborations and opportunities with you!
 
 
 # 🔥 News
