@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 #  About me
-I am a first-year MPhil student in AI Thrust at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Hao LIU](https://raymondhliu.github.io). Prior to my MPhil, I received a Bachelor’s degree from the Department of Computer Science at Wuhan University.
+I am a first-year MPhil student in AI Thrust at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Hao LIU](https://raymondhliu.github.io) and [Prof. Hui XIONG](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en). Prior to my MPhil, I received a Bachelor’s degree from the Department of Computer Science at Wuhan University.
 
 My primary research focus is on large-scale spatio-temporal modeling for solving essential problems, particularly in AI for scientific discovery. I'm now working on integrating prior scientific knowledge into deep learning models to enhance their accuracy, interpretability, and generalization ability for large-scale complex tasks.
 
@@ -25,6 +25,7 @@ My primary research focus is on large-scale spatio-temporal modeling for solving
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper was accepted to IJCAI 2025 about Language Model Empowered Spatio-Temporal Predictive Model. Thanks to all collaborators! 
 - *2025.03*: &nbsp;🎉🎉 One paper was accepted to VLDB 2025 about Compact Pre-Trained Spatio-Temporal Predictive Model. Thanks to all collaborators! 
 
 
@@ -32,7 +33,7 @@ My primary research focus is on large-scale spatio-temporal modeling for solving
 # 📖 Educational and Professional Background
 - 2024.09 - Present, **The Hong Kong University of Science and Technology**<br>
 Master of Philosophy, AI Thrust<br>
-Supervisor: [Prof. Hao LIU](https://raymondhliu.github.io)
+Supervisor: [Prof. Hao LIU](https://raymondhliu.github.io) and [Prof. Hui XIONG](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)
 
 - 2020.09 - 2024.06, **Wuhan University**<br>
 Bachelor, Department of Computer Science<br>
@@ -42,7 +43,7 @@ Supervisor: [Prof. Jiawei Jiang](https://bluesjjw.github.io)
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/repst.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/repst.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Language Model Empowered Spatio-Temporal Forecasting via Physics-Aware Reprogramming](https://arxiv.org/abs/2408.14505)<br>
 **Hao Wang**, Jindong Han, Wei Fan, Hao Liu<br>
