@@ -49,6 +49,7 @@ Supervisor: [Prof. Jiawei Jiang](https://bluesjjw.github.io)
 [RePST: Language Model Empowered Spatio-Temporal Forecasting via Semantic-Oriented Reprogramming](https://arxiv.org/abs/2408.14505)<br>
 **Hao Wang**, Jindong Han, Wei Fan, Leilei Sun, Hao Liu<br>
 arXiv:2408.14505 [cs.LG]<br>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/PhyDA.png' alt="sym" width="100%"></div></div>
@@ -56,6 +57,7 @@ arXiv:2408.14505 [cs.LG]<br>
 [PhyDA: Physics-Guided Diffusion Models for Data Assimilation in Atmospheric Systems](https://arxiv.org/abs/2505.12882)<br>
 **Hao Wang**, Jindong Han, Wei Fan, Weijia Zhang, Hao Liu<br>
 arXiv:2505.12882 [cs.LG]
+</div>
 
 
 
