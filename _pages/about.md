@@ -31,7 +31,7 @@ My primary research focus is on large-scale spatio-temporal modeling for solving
 
 
 # 📖 Educational and Professional Background
-- 2024.09 - Present, **The Hong Kong University of Science and Technology**<br>
+- 2024.09 - Present, **The Hong Kong University of Science and Technology (Guangzhou)**<br>
 Master of Philosophy, AI Thrust<br>
 Supervisor: [Prof. Hao LIU](https://raymondhliu.github.io) and [Prof. Hui XIONG](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)
 
@@ -50,7 +50,7 @@ Supervisor: [Prof. Jiawei Jiang](https://bluesjjw.github.io)
 arXiv:2408.14505 [cs.LG]
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/repst.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/PhyDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PhyDA: Physics-Guided Diffusion Models for Data Assimilation in Atmospheric Systems](https://arxiv.org/abs/2505.12882)<br>
 **Hao Wang**, Jindong Han, Wei Fan, Weijia Zhang, Hao Liu<br>
