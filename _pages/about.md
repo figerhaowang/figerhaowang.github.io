@@ -43,6 +43,7 @@ Supervisor: [Prof. Jiawei Jiang](https://bluesjjw.github.io)
 
 
 # 📝 Publications 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/repst.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [RePST: Language Model Empowered Spatio-Temporal Forecasting via Semantic-Oriented Reprogramming](https://arxiv.org/abs/2408.14505)<br>
@@ -55,6 +56,37 @@ arXiv:2408.14505 [cs.LG]
 [PhyDA: Physics-Guided Diffusion Models for Data Assimilation in Atmospheric Systems](https://arxiv.org/abs/2505.12882)<br>
 **Hao Wang**, Jindong Han, Wei Fan, Weijia Zhang, Hao Liu<br>
 arXiv:2505.12882 [cs.LG]
+-->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IJCAI 2025</div>
+      <img src='images/repst.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [RePST: Language Model Empowered Spatio-Temporal Forecasting via Semantic-Oriented Reprogramming](https://arxiv.org/abs/2408.14505)<br>
+    **Hao Wang**, Jindong Han, Wei Fan, Leilei Sun, Hao Liu<br>
+    arXiv:2408.14505 [cs.LG]
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv</div>
+      <img src='images/PhyDA.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [PhyDA: Physics-Guided Diffusion Models for Data Assimilation in Atmospheric Systems](https://arxiv.org/abs/2505.12882)<br>
+    **Hao Wang**, Jindong Han, Wei Fan, Weijia Zhang, Hao Liu<br>
+    arXiv:2505.12882 [cs.LG]
+  </div>
+</div>
+
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
