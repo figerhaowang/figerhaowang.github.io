@@ -25,6 +25,8 @@ I will join CityUHK for PhD study this September under the supervision of [Prof.
 
 
 # 🔥 News
+
+- *2026.04*: &nbsp;🎉🎉 One paper was accepted to ACL 2026 findings about Autonomous Climate Science Research Agent. Thanks to all collaborators! 
 - *2025.04*: &nbsp;🎉🎉 One paper was accepted to IJCAI 2025 about Language Model Empowered Spatio-Temporal Predictive Model. Thanks to all collaborators! 
 - *2025.03*: &nbsp;🎉🎉 One paper was accepted to VLDB 2025 about Compact Pre-Trained Spatio-Temporal Predictive Model. Thanks to all collaborators! 
 
@@ -89,5 +91,7 @@ arXiv:2505.12882 [cs.LG]
 
 
 # 💻 Internships
-- *2013.09 - 2024.05*, Research Assistant, AI Thrust, The Hong Kong University of Science and Technology.
+- *2026.01 - present*, Research Assistant, Suzhou National Lab.
+-->
+- *2023.09 - 2024.05*, Research Assistant, AI Thrust, The Hong Kong University of Science and Technology.
 -->
