@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 #  About me
-I am a second-year MPhil student in AI Thrust at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Hao LIU](https://raymondhliu.github.io) and [Prof. Hui XIONG](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en). Prior to my MPhil, I received a Bachelor’s degree from the Department of Computer Science at Wuhan University.
+I am a first-year PhD student in CityUHK under the supervision of [Prof. Ye WEI](https://acelab1.netlify.app/).
+I recieved my MPhil degree in AI Thrust at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Hao LIU](https://raymondhliu.github.io) and [Prof. Hui XIONG](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en). Prior to my MPhil, I received a Bachelor’s degree from the Department of Computer Science at Wuhan University.
 
-My primary research focus is on large-scale spatio-temporal modeling for solving essential problems, particularly in AI for scientific discovery. I'm now working on integrating prior scientific knowledge into deep learning models to enhance their accuracy, interpretability, and generalization ability for large-scale complex tasks.
-
-I will join CityUHK for PhD study this September under the supervision of [Prof. Ye WEI]([https://raymondhliu.github.io](https://acelab1.netlify.app/)) . If my research interests align with yours and you are open to considering me as a potential advisee, please feel free to contact me. I am eager to explore potential collaborations and opportunities with you!
+My primary research focus is on LLM Agents and its applications for scientific discovery, particularly in material science and life science.
+If my research interests align with yours and you are open to considering me as a potential advisee, please feel free to contact me. I am eager to explore potential collaborations and opportunities with you!
 
 
 # 🔥 News
@@ -33,7 +33,11 @@ I will join CityUHK for PhD study this September under the supervision of [Prof.
 
 
 # 📖 Educational and Professional Background
-- 2024.09 - Present, **The Hong Kong University of Science and Technology (Guangzhou)**<br>
+- 2026.09 - Present, **City University of Hong Kong**<br>
+Bachelor, Department of Data Science<br>
+Supervisor: [Prof. Ye WEI](https://acelab1.netlify.app/)
+
+- 2024.09 - 2026.06, **The Hong Kong University of Science and Technology (Guangzhou)**<br>
 Master of Philosophy, AI Thrust<br>
 Supervisor: [Prof. Hao LIU](https://raymondhliu.github.io) and [Prof. Hui XIONG](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)
 
